@@ -7,6 +7,8 @@ namespace tutorial01
     public static void Main(string[] args)
     {
       Console.Write("mod1");
+      Console.Write("mod2");
+
     }
   }
 }
